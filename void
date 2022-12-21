@@ -19,10 +19,13 @@ sudo xbps-install nerd-fonts-ttf
 
 # browser and mail
 sudo xbps-install firefox aerc
-sudo xpbx-install thunderbird
+sudo xbps-install thunderbird
 
 # gui stuff
 sudo xbps-install lxappearance arc-theme arc-icon-theme pcmanfm
+
+# pass crypt
+sudo xbps-install gnupg pass
 
 # more apps
 sudo xbps-install bluefish filezilla gimp cmus mpv
