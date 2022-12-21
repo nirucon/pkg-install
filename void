@@ -17,6 +17,10 @@ sudo xbps-install imlib2-devel libXrandr-devel
 # fonts
 sudo xbps-install nerd-fonts-ttf
 
+# browser and mail
+sudo xbps-install firefox aerc
+sudo xpbx-install thunderbird
+
 # gui stuff
 sudo xbps-install lxappearance arc-theme arc-icon-theme pcmanfm
 
