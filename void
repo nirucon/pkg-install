@@ -9,7 +9,7 @@ sudo xbps-install sof-firmware
 sudo xbps-install vim nano git wget
 
 # suckless dwm etc dep
-sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel xorg nitrogen picom
+sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel xorg nitrogen picom brightnessctl
 
 # suckless slock dep
 sudo xbps-install imlib2-devel libXrandr-devel
