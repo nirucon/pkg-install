@@ -1,6 +1,10 @@
 # installs for my void linux setup
 # niru.pm
 
+# firmare if needed
+# 11th gen intel cpu or newer fix audio etc
+sudo xbps-install sof-firmware 
+
 # editors etc
 sudo xbps-install vim nano git wget
 
