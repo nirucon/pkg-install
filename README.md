@@ -1,3 +1,3 @@
 # pkginstall
 
-* Various scripts to application installs.
+* Various scripts and notes to installs.
