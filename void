@@ -1,0 +1,20 @@
+# installs for my void linux setup
+# niru.pm
+
+# editors etc
+sudo xbps-install vim nano git wget
+
+# suckless dwm etc dep
+sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel xorg nitrogen picom
+
+# suckless slock dep
+sudo xbps-install imlib2-devel libXrandr-devel
+
+# fonts
+sudo xbps-install nerd-fonts-ttf
+
+# gui stuff
+sudo xbps-install lxappearance arc-theme arc-icon-theme pcmanfm
+
+# more apps
+sudo xbps-install bluefish filezilla gimp cmus mpv
