@@ -28,4 +28,4 @@ sudo xbps-install lxappearance arc-theme arc-icon-theme pcmanfm
 sudo xbps-install gnupg pass
 
 # more apps
-sudo xbps-install bluefish filezilla gimp cmus mpv kdenlive breeze
+sudo xbps-install bluefish filezilla gimp cmus mpv kdenlive breeze nextcloud-client
